@@ -15,8 +15,6 @@ git clone https://github.com/brayanleo1/TaskScrapAmazon_Trainee-JuniorFullStackD
 cd amazon-scraper-example
 ```
 
-> 🔁 Replace the link above with your actual repo URL.
-
 ---
 
 ### 2. Setup & Run Backend (Bun)
