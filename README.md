@@ -11,7 +11,7 @@ This project lets you search for a keyword and view scraped product titles, rati
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/amazon-scraper-example.git
+git clone https://github.com/brayanleo1/TaskScrapAmazon_Trainee-JuniorFullStackDeveloper.git
 cd amazon-scraper-example
 ```
 
@@ -56,7 +56,7 @@ bun run index.ts
 The frontend is inside of another folder so:
 
 ```bash
-cd ..\\Frontend\\amazon-scraper
+cd ..\Frontend\amazon-scraper
 ```
 
 #### 📦 Install dependencies
