@@ -12,7 +12,7 @@ This project lets you search for a keyword and view scraped product titles, rati
 
 ```bash
 git clone https://github.com/brayanleo1/TaskScrapAmazon_Trainee-JuniorFullStackDeveloper.git
-cd amazon-scraper-example
+cd TaskScrapAmazon_Trainee-JuniorFullStackDeveloper 
 ```
 
 ---
